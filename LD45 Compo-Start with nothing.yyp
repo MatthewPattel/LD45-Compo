@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "016f9258-70af-4465-b104-f594aa3830b2",
+            "Value": {
+                "id": "e38cbf23-bf7e-467d-9f12-04e14cfda47a",
+                "resourcePath": "objects\\obj_colorball_yellow\\obj_colorball_yellow.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "11577975-283b-4870-9af3-050cd60345ec",
             "Value": {
                 "id": "142390eb-2de0-4273-94ed-bef65a6000f1",
@@ -143,6 +151,14 @@
             }
         },
         {
+            "Key": "5b9fbe90-3356-403a-9f61-df6ff0bffd98",
+            "Value": {
+                "id": "959debe8-d903-4477-acb0-56216fc0d91e",
+                "resourcePath": "objects\\obj_colorball_green\\obj_colorball_green.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "5f0e2b22-1f68-4a71-93a0-83da4ecaba06",
             "Value": {
                 "id": "f251af73-ce1a-4f6c-84da-bad3afc027cd",
@@ -204,6 +220,14 @@
                 "id": "7775f229-e112-45a1-bbbc-20bcba63b6af",
                 "resourcePath": "sprites\\spr_colorball_orange\\spr_colorball_orange.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "8107c3f9-a7ea-415e-9d80-4b9b84914c4b",
+            "Value": {
+                "id": "66a4b1fe-c265-4e49-8daa-0b1e9dc2c048",
+                "resourcePath": "objects\\obj_colorball_purple\\obj_colorball_purple.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -319,6 +343,14 @@
             }
         },
         {
+            "Key": "c8469991-6095-4402-bd6d-3806f1ce0d6c",
+            "Value": {
+                "id": "daf6f86f-2b9c-4bd0-8d67-64a70079e2a8",
+                "resourcePath": "objects\\obj_colorball_red\\obj_colorball_red.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "27e84682-ec66-4685-91fc-408148a27c95",
@@ -332,6 +364,14 @@
                 "id": "640459a4-8017-4043-8b75-95ed081db8ed",
                 "resourcePath": "scripts\\PState_move\\PState_move.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "cf8ce431-41de-4afc-90f4-b897d43c7ea1",
+            "Value": {
+                "id": "c6063fe2-46be-4b90-9864-35b3418b6797",
+                "resourcePath": "objects\\obj_colorball_orange\\obj_colorball_orange.yy",
+                "resourceType": "GMObject"
             }
         },
         {
