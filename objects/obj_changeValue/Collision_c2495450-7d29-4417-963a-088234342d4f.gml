@@ -1,5 +1,5 @@
 /// @description More jump
 
-changeValue("blue");
+changeValue(color_ball);
 
 instance_destroy();

@@ -5,9 +5,9 @@ var color = argument0;
 
 var valor = obj_controller.activeColors[? color];
 
-if(valor==false){
+if (valor == false) {
 	obj_controller.activeColors[? color] = true;
-}else{
+} else {
 	obj_controller.activeColors[? color] = false;
 }
 
