@@ -1,0 +1,5 @@
+color_needed / color_actual
+blue    purple    red    orange    yellow    green
+
+spritespd
+none    low    normal
