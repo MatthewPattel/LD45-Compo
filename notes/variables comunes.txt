@@ -1,4 +1,4 @@
-color_needed / color_actual
+color_needed
 blue    purple    red    orange    yellow    green
 
 spritespd
