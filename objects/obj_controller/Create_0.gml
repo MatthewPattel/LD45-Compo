@@ -8,4 +8,11 @@ enum PSTATE {
 	DEAD
 }
 
+activeColors = ds_map_create();
 
+activeColors[? "blue"] = false;
+activeColors[? "purple"] = false;
+activeColors[? "red"] = false;
+activeColors[? "orange"] = false;
+activeColors[? "yellow"] = false;
+activeColors[? "green"] = false;

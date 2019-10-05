@@ -1,4 +1,4 @@
-/// @description Draw GUI
+/// @description Draw Life
 
 var percentageHP;
 

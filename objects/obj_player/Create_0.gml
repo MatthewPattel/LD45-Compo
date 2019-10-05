@@ -3,8 +3,10 @@
 jumps = 0;
 falling = false;
 grav = 0.2;
+
 hspd = 0;
 hblock = false;
+
 vspd = 0;
 vblock = false;
 
