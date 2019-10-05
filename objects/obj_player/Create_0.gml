@@ -19,14 +19,15 @@ chargedAttack = 0;
 recentSpecial = false;
 chargedSpecial = 0;
 */
-hp = 0;
+hp = 100;
 //attacking = false;
 
 movespeed = 3;
 runspeed = 6;
 jumpspeed = 7;
-jumpsmax = 2;
+jumpsmax = 1;
 
+pow_running = false;
 
 spriteRun = spr_player;
 spriteIdle = spr_player;

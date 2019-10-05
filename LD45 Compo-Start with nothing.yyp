@@ -159,6 +159,14 @@
             }
         },
         {
+            "Key": "92a058c1-d6a1-4326-af01-94521c1327da",
+            "Value": {
+                "id": "2a322e3a-6089-4326-a809-ea9ae7d2975c",
+                "resourcePath": "sprites\\spr_life\\spr_life.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "93a77cde-98da-439d-9371-7f85570a1638",
             "Value": {
                 "id": "df09f229-2a82-4ab8-842d-8a72ba4351c0",
@@ -183,11 +191,35 @@
             }
         },
         {
+            "Key": "b5fb12c1-58c7-45db-b2f9-1face1d228b3",
+            "Value": {
+                "id": "f093a45a-c70a-4cdb-9462-1d1a07ccceba",
+                "resourcePath": "objects\\obj_power_jump\\obj_power_jump.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "c2ab538f-7cad-4ea7-9e2a-a78f38343099",
             "Value": {
                 "id": "c3a7d20d-34ec-4dd7-90d2-1e1ddefb46b0",
                 "resourcePath": "views\\c2ab538f-7cad-4ea7-9e2a-a78f38343099.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c64ccac1-79ea-4a65-b33c-084677f8b15d",
+            "Value": {
+                "id": "06b92e2a-10df-49b8-9fdb-4a072a532fe3",
+                "resourcePath": "sprites\\spr_power\\spr_power.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c77de540-5f91-4107-a641-b121eb1ecb11",
+            "Value": {
+                "id": "e0304b43-ef2f-4db8-bb33-edcb93abfba4",
+                "resourcePath": "objects\\obj_power_speed\\obj_power_speed.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -204,6 +236,14 @@
                 "id": "3ecfd0da-85a5-4178-a005-5b4458700451",
                 "resourcePath": "views\\d7004ad7-0937-4f53-b38b-077c74dc0e58.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "d93c3477-2ec1-4c92-9daa-8d3a6546cace",
+            "Value": {
+                "id": "6b2a1457-f328-415b-9a6c-d233b6af52e1",
+                "resourcePath": "sprites\\spr_life_overlay\\spr_life_overlay.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

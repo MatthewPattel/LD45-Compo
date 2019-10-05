@@ -1,16 +1,21 @@
 /// @description Movement
 
-key_jump = keyboard_check_pressed(ord("W"));
-key_jump_held = keyboard_check(ord("W"));
+key_jump = keyboard_check_pressed(ord("W")) or keyboard_check_pressed(vk_up);
+key_jump_held = keyboard_check(ord("W")) or keyboard_check(vk_up);
 
-key_down = keyboard_check(ord("S"));
-key_left = keyboard_check(ord("A"));
-key_right = keyboard_check(ord("D"));
+key_down = keyboard_check(ord("S")) or keyboard_check(vk_down);
+key_left = keyboard_check(ord("A")) or keyboard_check(vk_left);
+key_right = keyboard_check(ord("D")) or keyboard_check(vk_right);
 
 #region movement
 
 var move = key_right - key_left;
-hspd = move * movespeed;
+
+if (pow_running) {
+	hspd = move * runspeed;
+} else {
+	hspd = move * movespeed;
+}
 
 /*
 if (move != 0) and (image_index > 2) {
