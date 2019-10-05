@@ -58,7 +58,7 @@
             "Key": "2a217e22-a82d-4d5b-80bd-04aecdb56fe4",
             "Value": {
                 "id": "cee79912-a226-43c2-904a-d671fd67a162",
-                "resourcePath": "sprites\\spr_tree\\spr_tree.yy",
+                "resourcePath": "sprites\\spr_tree_white\\spr_tree_white.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -124,6 +124,14 @@
                 "id": "d6ce0380-8b82-4c69-9d0e-e6220f3534f3",
                 "resourcePath": "scripts\\commonGenerator\\commonGenerator.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "6564a332-d218-4e40-8286-676105cd4691",
+            "Value": {
+                "id": "a2615c02-c196-42c7-9463-cf433e7717a1",
+                "resourcePath": "sprites\\spr_tree_color\\spr_tree_color.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

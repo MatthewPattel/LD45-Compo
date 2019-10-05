@@ -21,36 +21,6 @@ switch(state) {
 			alarm[2] = room_speed;
 		}
 	break;
-	case PSTATE.A_SOLO:
-		PState_aSolo();
-	break;
-	case PSTATE.A_COMBO:
-		PState_aCombo();
-	break;
-	case PSTATE.A_FINALE:
-		PState_aFinale();
-	break;
-	case PSTATE.A_SIDE:
-		PState_aSide();
-	break;
-	case PSTATE.A_JUMP:
-		PState_aJump();
-	break;
-	case PSTATE.A_DOWN:
-		PState_aDown();
-	break;
-	case PSTATE.S_SOLO:
-		PState_sSolo();
-	break;
-	case PSTATE.S_SIDE:
-		PState_sSide();
-	break;
-	case PSTATE.S_JUMP:
-		PState_sJump();
-	break;
-	case PSTATE.S_DOWN:
-		PState_sDown();
-	break;
 	case PSTATE.HIT:
 		
 	break;
