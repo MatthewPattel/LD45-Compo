@@ -6,9 +6,11 @@ var color = argument0;
 var valor = obj_controller.activeColors[? color];
 
 if (valor == false) {
-	obj_controller.activeColors[? color] = true;
+	ds_map_replace(obj_controller.activeColors, color, true);
+	valor = true;
 } else {
-	obj_controller.activeColors[? color] = false;
+	ds_map_replace(obj_controller.activeColors, color, false);
+	valor = false;
 }
 
 show_debug_message(string(color));
