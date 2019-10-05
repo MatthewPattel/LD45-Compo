@@ -191,6 +191,14 @@
             }
         },
         {
+            "Key": "b51ab290-b90a-4886-be0f-bfdfabe84d3c",
+            "Value": {
+                "id": "2a4033d4-5f82-4086-811a-e84dc1147ac5",
+                "resourcePath": "scripts\\PStateMachine\\PStateMachine.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "b5fb12c1-58c7-45db-b2f9-1face1d228b3",
             "Value": {
                 "id": "f093a45a-c70a-4cdb-9462-1d1a07ccceba",
@@ -228,6 +236,14 @@
                 "id": "27e84682-ec66-4685-91fc-408148a27c95",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "cd30c838-378b-4880-8d85-2013ddfe8034",
+            "Value": {
+                "id": "640459a4-8017-4043-8b75-95ed081db8ed",
+                "resourcePath": "scripts\\PState_move\\PState_move.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -312,7 +328,9 @@
         }
     ],
     "script_order": [
-        "6527b6f8-e7ce-4172-b2dd-fd707c97f806"
+        "6527b6f8-e7ce-4172-b2dd-fd707c97f806",
+        "cd30c838-378b-4880-8d85-2013ddfe8034",
+        "b51ab290-b90a-4886-be0f-bfdfabe84d3c"
     ],
     "tutorial": ""
 }

@@ -17,6 +17,5 @@ switch(spritespd) {
 }
 
 color_needed = argument1;
-color_actual = "white";
 color_active = false;
 
