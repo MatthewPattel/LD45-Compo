@@ -151,6 +151,14 @@
             }
         },
         {
+            "Key": "8d7b21a6-533a-42c9-8ed5-c4c6d44664c5",
+            "Value": {
+                "id": "95f041ab-3f42-4369-b255-c309060d610d",
+                "resourcePath": "notes\\hola_mundo.yy",
+                "resourceType": "GMNotes"
+            }
+        },
+        {
             "Key": "9167e42e-d622-4c7a-ba38-f22ffc850076",
             "Value": {
                 "id": "d4fd13d3-7c84-45f0-99dc-65921fb86e7e",
