@@ -16,6 +16,5 @@ switch(spritespd) {
 	break;
 }
 
-
 color_needed = argument1;
 color_active = false;
