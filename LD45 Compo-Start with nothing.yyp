@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "0c6fe0da-65b5-4150-b32f-9135e94cfcc1",
+            "Value": {
+                "id": "5fe12957-8d41-4a80-957f-2dbf0ba08956",
+                "resourcePath": "sprites\\spr_bush\\spr_bush.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0df6f854-a3f1-40ef-8d53-fdea92bb051e",
             "Value": {
                 "id": "11932f32-be13-4367-a690-d2cb0178cdfb",
@@ -164,6 +172,14 @@
                 "id": "5acc6c49-df1f-41cb-97da-3b4de782138f",
                 "resourcePath": "scripts\\changeValue\\changeValue.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "3f3cd93b-eef5-4fa2-b148-992a69512679",
+            "Value": {
+                "id": "641cf436-46c6-41d5-9f26-2b4818f81d20",
+                "resourcePath": "sprites\\spr_flower_orange\\spr_flower_orange.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -367,6 +383,14 @@
             }
         },
         {
+            "Key": "8c360f1d-ee77-4748-8a99-5e02636d5a89",
+            "Value": {
+                "id": "c1e07528-a514-4404-802b-85ce9fcdea7f",
+                "resourcePath": "sprites\\spr_flower_purple\\spr_flower_purple.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "8d041aca-f786-45b4-87f5-aa21a9f0e598",
             "Value": {
                 "id": "7729ec51-1ada-40f4-b1f0-df367f6c7b8d",
@@ -543,6 +567,14 @@
             }
         },
         {
+            "Key": "c7aa0fa2-85ce-4f5b-a7c5-32736ab29145",
+            "Value": {
+                "id": "c5eec860-70ab-4ec0-ac62-08ac42b1f284",
+                "resourcePath": "sprites\\spr_flower_blue\\spr_flower_blue.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "c8469991-6095-4402-bd6d-3806f1ce0d6c",
             "Value": {
                 "id": "daf6f86f-2b9c-4bd0-8d67-64a70079e2a8",
@@ -572,6 +604,14 @@
                 "id": "62f2b96d-8a86-46b1-b17d-c1b04980908e",
                 "resourcePath": "objects\\obj_checkpoint\\obj_checkpoint.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "ce4deff8-2a2c-4968-9560-0469a0bb9357",
+            "Value": {
+                "id": "4ddd4414-4abd-416b-96c3-75232f52d2b6",
+                "resourcePath": "sprites\\spr_flower_yellow\\spr_flower_yellow.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
