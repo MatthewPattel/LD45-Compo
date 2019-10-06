@@ -455,14 +455,6 @@
             }
         },
         {
-            "Key": "9f12a1fe-14e6-4e1e-a09f-301945ff498a",
-            "Value": {
-                "id": "61c11b14-91f0-40ea-8e4b-edf6a6e68cd8",
-                "resourcePath": "objects\\obj_coins\\obj_coins.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
             "Value": {
                 "id": "6c696395-fad8-4205-a669-298b64c57f12",
@@ -708,14 +700,6 @@
                 "id": "cf8fe824-f6b3-4535-94ab-466bf327c479",
                 "resourcePath": "sprites\\spr_colorball_green\\spr_colorball_green.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "ea8afbda-38f0-48d0-b54e-f9b19daacb46",
-            "Value": {
-                "id": "fc34bdce-b43f-4cd3-bf7d-aa2832002dec",
-                "resourcePath": "objects\\object27\\object27.yy",
-                "resourceType": "GMObject"
             }
         },
         {
