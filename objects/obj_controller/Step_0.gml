@@ -8,5 +8,7 @@ if keyboard_check_released(ord("O")) { obj_player.hp+= 10; }
 
 if keyboard_check_released(ord("I")) { obj_player.hp-= 10; }
 
+if keyboard_check_released(ord("S")) { global.coins += 1}
+
 if (obj_player.hp >= 100) { obj_player.hp = 100; }
 if (obj_player.hp <= 0) { obj_player.hp = 0; }

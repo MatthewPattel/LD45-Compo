@@ -679,6 +679,14 @@
             }
         },
         {
+            "Key": "e06d1aca-bb92-47e3-8214-46a816df7ec4",
+            "Value": {
+                "id": "6919efdf-c682-49ce-a155-ab1ba0aa8797",
+                "resourcePath": "fonts\\font_coins\\font_coins.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "e5317bb8-fa4d-4884-b061-971b9c90308f",
             "Value": {
                 "id": "ddea2d8b-44e4-4064-b561-d85a785c28df",
@@ -755,6 +763,14 @@
             "Value": {
                 "id": "75f85987-3d14-4f0a-928b-e26bc9aa7b19",
                 "resourcePath": "objects\\obj_player\\obj_player.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "fa6371f1-d556-4fbe-8dcf-4ee66e254114",
+            "Value": {
+                "id": "030d18b3-2c16-472c-b67f-f983c80361a8",
+                "resourcePath": "objects\\obj_coin\\obj_coin.yy",
                 "resourceType": "GMObject"
             }
         },

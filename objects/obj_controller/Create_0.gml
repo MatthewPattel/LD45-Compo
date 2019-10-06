@@ -8,6 +8,11 @@ enum PSTATE {
 	DEAD
 }
 
+global.coins = 0;
+global.checkpoint = false; 
+global.checkpointX = noone; 
+global.checkpointY = noone;
+
 activeColors = ds_map_create();
 
 activeColors[? "blue"] = false;
