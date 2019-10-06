@@ -10,14 +10,13 @@ if keyboard_check_released(ord("I")) { obj_player.hp-= 10; }
 
 if keyboard_check_released(ord("S")) { global.coins += 1}
 
-if (obj_player.hp >= 100) { obj_player.hp = 100; }
-if (obj_player.hp <= 0) {
-	obj_player.hp = 0;
-	if (global.checkpoint) {
-		obj_player.hp = 100;
-		obj_player.x = global.checkpointX;
-		obj_player.y = global.checkpointY;
-	} else {
-		game_restart();
+if instance_exists(obj_player) {
+	if (obj_player.hp >= 100) { obj_player.hp = 100; }
+	if (obj_player.hp <= 0) {
+		obj_player.hp = 0;
+		instance_destroy(obj_player);
+		if (alarm[0] == -1) {
+			alarm[0] = room_speed*2
+		}
 	}
 }

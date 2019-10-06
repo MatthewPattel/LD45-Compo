@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "03487d3d-1af3-44b4-9ddc-32c6601be770",
+            "Value": {
+                "id": "c7cc9ef6-10f8-4f24-8a76-9ef4abeaa2b5",
+                "resourcePath": "objects\\obj_enemy_explosive\\obj_enemy_explosive.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "03913adf-25db-4c69-82fc-d730382fe1d7",
             "Value": {
                 "id": "8ef6fd12-6153-4fd0-b2ce-8444041d1824",
@@ -231,11 +239,27 @@
             }
         },
         {
+            "Key": "5595bed7-1497-4909-9251-976c716b49a7",
+            "Value": {
+                "id": "1983c913-abe1-4bff-979b-07241a076af7",
+                "resourcePath": "views\\5595bed7-1497-4909-9251-976c716b49a7.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "56eee208-0442-4680-8975-4c1e80dbb0ec",
             "Value": {
                 "id": "9569e964-ae64-4c52-9cd9-5a285b041868",
                 "resourcePath": "views\\56eee208-0442-4680-8975-4c1e80dbb0ec.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "5750589f-a321-4726-966d-ea636e9a2161",
+            "Value": {
+                "id": "55a21a68-4f00-4328-a8cf-96d1dafb46db",
+                "resourcePath": "objects\\obj_parent_enemy\\obj_parent_enemy.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -363,6 +387,14 @@
             "Value": {
                 "id": "66a4b1fe-c265-4e49-8daa-0b1e9dc2c048",
                 "resourcePath": "objects\\obj_colorball_purple\\obj_colorball_purple.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "8433da02-f7dc-458b-9c1c-2b1018a98480",
+            "Value": {
+                "id": "573d9e6d-0c07-41a9-b3dd-cef9c49792be",
+                "resourcePath": "objects\\obj_enemy_thrower\\obj_enemy_thrower.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -567,6 +599,14 @@
             }
         },
         {
+            "Key": "cb518730-ee95-4d8f-af8f-29562197441e",
+            "Value": {
+                "id": "8882adcf-7e0a-42f7-b547-ae35fe369314",
+                "resourcePath": "sprites\\spr_enemy_explosive_attack1\\spr_enemy_explosive_attack1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "27e84682-ec66-4685-91fc-408148a27c95",
@@ -580,6 +620,14 @@
                 "id": "640459a4-8017-4043-8b75-95ed081db8ed",
                 "resourcePath": "scripts\\PState_move\\PState_move.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "cd78b04e-80f8-43e2-a915-2a2ef9a0f242",
+            "Value": {
+                "id": "05048a31-a958-440d-a179-fc8ed18f0a9d",
+                "resourcePath": "sprites\\spr_enemy_bullet\\spr_enemy_bullet.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -652,6 +700,14 @@
                 "id": "266d7f9a-0cca-444d-801c-c4cd47a042d1",
                 "resourcePath": "sprites\\spr_enemy_stalker\\spr_enemy_stalker.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "dbd2bf19-3e6b-42a1-9aa8-4dd2efbcf4a8",
+            "Value": {
+                "id": "43954fac-b7ac-4e8e-881e-dd8aecd2bce3",
+                "resourcePath": "objects\\obj_enemy_explosion\\obj_enemy_explosion.yy",
+                "resourceType": "GMObject"
             }
         },
         {

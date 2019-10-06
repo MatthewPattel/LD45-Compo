@@ -3,9 +3,9 @@
 if (instance_exists(obj_player)) {
 	var diffX = obj_player.x - x;
 	var diffY = obj_player.y - y;
-	if (abs(diffX) <= attackDetector) {
+	if (abs(diffX) <= attackDetector) and (abs(diffY) <= attackDetector*1.75) {
 		state = ESTATE.CHASE;
-		if (abs(diffX) <= attackDistance) and (abs(diffY) <= attackDistance) {
+		if (abs(diffX) <= attackDistance) and (abs(diffY) <= attackDistance){
 			state = ESTATE.ATTACK;	
 		}
 	} else {
@@ -14,6 +14,8 @@ if (instance_exists(obj_player)) {
 } else {
 	state = ESTATE.FREE;
 }
+
+show_debug_message(string(state));
 
 switch (state) {
 	case ESTATE.FREE:

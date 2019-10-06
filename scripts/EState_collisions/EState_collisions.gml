@@ -24,15 +24,6 @@ if (place_meeting(x, y + vsp, obj_solid)) {
 ///CHOQUE CON JUGADOR
 if (place_meeting(x, y, obj_player)) {
 	
-	/*
-    if (obj_player.y < y-16) {
-        with (obj_player) vsp = -jumpspeed;
-    } else {
-        movespeed = movespeed_ataque;
-        sprite_index = spriteIndex_ataque;
-        image_speed = imageSpeed_ataque;
-    }
-	*/
 }
 
 image_xscale = dir;

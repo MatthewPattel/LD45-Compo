@@ -14,6 +14,9 @@ switch(spritespd) {
 	case "normal":
 		image_speed = 1.2;
 	break;
+	case "fast":
+		image_speed = 1.7;
+	break;
 }
 
 color_needed = argument1;

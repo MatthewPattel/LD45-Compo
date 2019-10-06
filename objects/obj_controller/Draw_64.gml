@@ -2,7 +2,11 @@
 
 var percentageHP;
 
-percentageHP = (128/100) * obj_player.hp;
+if instance_exists(obj_player) {
+	percentageHP = (128/100) * obj_player.hp;
+} else {
+	percentageHP = 100;
+}
 
 var sub1 = updateColor("orange") ? 1:0;
 draw_sprite_ext(spr_life_overlay, sub1, 10, 10, 2, 2, 0, c_white, 1);
