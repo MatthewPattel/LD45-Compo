@@ -295,6 +295,14 @@
             }
         },
         {
+            "Key": "853ca2e2-8141-4354-a2ad-739f40ad1a4b",
+            "Value": {
+                "id": "75a669a1-9903-4930-b7fe-9863c01f580c",
+                "resourcePath": "objects\\obj_flower_red\\obj_flower_red.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "8d041aca-f786-45b4-87f5-aa21a9f0e598",
             "Value": {
                 "id": "7729ec51-1ada-40f4-b1f0-df367f6c7b8d",
