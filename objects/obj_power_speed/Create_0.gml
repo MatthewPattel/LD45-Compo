@@ -1,4 +1,3 @@
 /// @description Creation Variables
 
-image_index = 1;
-image_speed = 0;
+color_needed = "yellow";

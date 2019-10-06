@@ -8,5 +8,3 @@ EState_collisions();
 
 x += hsp;
 y += vsp;
-
-event_inherited();
