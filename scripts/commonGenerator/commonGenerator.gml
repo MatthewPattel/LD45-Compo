@@ -1,8 +1,6 @@
 /// @description commonGenerator(spritespd, color_needed)
 /// @param spritespd
 /// @param color_needed
-/// @param spriteWhite
-/// @param spriteColor
 
 var spritespd = argument0;
 
@@ -21,6 +19,3 @@ switch(spritespd) {
 
 color_needed = argument1;
 color_active = false;
-
-spriteWhite = argument2;
-spriteColor = argument3;
