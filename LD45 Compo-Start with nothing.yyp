@@ -415,6 +415,14 @@
             }
         },
         {
+            "Key": "9597457a-5eeb-4e1c-a332-8cd08f81b6cd",
+            "Value": {
+                "id": "ba08c275-1815-48f0-8cd0-f12a983965d0",
+                "resourcePath": "objects\\obj_enemy_explosive\\obj_enemy_explosive.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "9c3fc3d0-6180-41e3-aa77-35eda2b0036c",
             "Value": {
                 "id": "2d458f7f-9720-437f-9a54-3ebcac7d1517",
@@ -647,6 +655,14 @@
             }
         },
         {
+            "Key": "ea8afbda-38f0-48d0-b54e-f9b19daacb46",
+            "Value": {
+                "id": "fc34bdce-b43f-4cd3-bf7d-aa2832002dec",
+                "resourcePath": "objects\\object27\\object27.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "ebb07be9-2b87-421b-98be-a66b8e9d02cf",
             "Value": {
                 "id": "544046ce-9559-4768-9a51-e50af47b622c",
@@ -687,6 +703,14 @@
             }
         },
         {
+            "Key": "f6c5ae29-0924-4570-9eca-65e65266104f",
+            "Value": {
+                "id": "f974618c-6ffa-450d-ae85-53abd536dd43",
+                "resourcePath": "scripts\\Enemy_move\\Enemy_move.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "f7718d9d-21e2-49e5-9ee3-f4d2910b9475",
             "Value": {
                 "id": "75f85987-3d14-4f0a-928b-e26bc9aa7b19",
@@ -708,7 +732,8 @@
         "cd30c838-378b-4880-8d85-2013ddfe8034",
         "b51ab290-b90a-4886-be0f-bfdfabe84d3c",
         "3f3c0bd0-425c-4ccc-9693-df93952c7422",
-        "57926964-e795-4993-ac63-3edf2ee6958d"
+        "57926964-e795-4993-ac63-3edf2ee6958d",
+        "f6c5ae29-0924-4570-9eca-65e65266104f"
     ],
     "tutorial": ""
 }

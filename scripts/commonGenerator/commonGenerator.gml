@@ -9,10 +9,10 @@ switch(spritespd) {
 		image_speed = 0;
 	break;
 	case "low":
-		image_speed = 0.2;
+		image_speed = 0.5;
 	break;
 	case "normal":
-		image_speed = 0.6;
+		image_speed = 1.2;
 	break;
 }
 
