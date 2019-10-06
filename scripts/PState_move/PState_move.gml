@@ -2,6 +2,8 @@
 
 var move = key_right - key_left;
 
+if (move != 0) { dir = move; }
+
 if (pow_running) {
 	hspd = move * runspeed;
 } else {

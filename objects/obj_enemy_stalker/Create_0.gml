@@ -1,6 +1,6 @@
 /// @description Variables
 
-commonGenerator("low", "yellow");
+commonGenerator("low", "orange");
 
 ///VARIABLES
 randomize();
@@ -10,9 +10,10 @@ damage = 5;
 
 dir = choose(1, -1);
 
-movespeed_normal = 3;
-movespeed_ataque = 0;
-movespeed = movespeed_normal;
+state = ESTATE.FREE;
+
+movespeed = 3;
+jumpspeed = 7;
 
 grav = 0.5;
 
@@ -21,15 +22,14 @@ vsp = 0;
 
 jumpspeed = 7;
 
-imageSpeed_normal = 0.2;
-imageSpeed_ataque = 0.4;
-image_speed = imageSpeed_normal;
+attackDistance = 48;
+attackDetector = 80;
 
-spriteIndex_normal = spr_comida;
-spriteIndex_ataque = spr_comida_ataque;
-sprite_index = spriteIndex_normal;
+spriteRun = spr_enemy_stalker;
+spriteAttack = spr_enemy_stalker;
+spriteJump = spr_enemy_stalker;
+spriteFall = spr_enemy_stalker;
 
-inicioATK = 35;
-finalATK = inicioATK + 2;
+sprite_index = spriteRun;
 
 fearofheights = false;

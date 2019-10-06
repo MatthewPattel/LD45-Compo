@@ -663,6 +663,14 @@
             }
         },
         {
+            "Key": "d9806d8e-65bf-4a51-8fb7-c54db2f7fa8b",
+            "Value": {
+                "id": "266d7f9a-0cca-444d-801c-c4cd47a042d1",
+                "resourcePath": "sprites\\spr_enemy_stalker\\spr_enemy_stalker.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "dc11e128-336d-40a7-9953-47d1820f07b4",
             "Value": {
                 "id": "71ddd374-9d74-4806-b373-a746e99dfe2c",
@@ -684,6 +692,14 @@
                 "id": "6919efdf-c682-49ce-a155-ab1ba0aa8797",
                 "resourcePath": "fonts\\font_coins\\font_coins.yy",
                 "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "e5121eb0-7263-4952-a616-9ba16a20580d",
+            "Value": {
+                "id": "92a4a4c6-acc6-42ac-86b4-46c1731ffac3",
+                "resourcePath": "sprites\\spr_enemy_thrower\\spr_enemy_thrower.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -719,6 +735,14 @@
             }
         },
         {
+            "Key": "ed964ac7-c6ac-4112-9119-f70adfa143f4",
+            "Value": {
+                "id": "8fee063e-9958-4986-992e-8fe817f098d4",
+                "resourcePath": "sprites\\spr_enemy_explosive\\spr_enemy_explosive.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "ef5c8a0c-a725-4c60-8f27-55c55f1627e5",
             "Value": {
                 "id": "597fb12c-72bd-41ec-a6b1-6c23f6929df2",
@@ -751,10 +775,18 @@
             }
         },
         {
+            "Key": "f667bdc8-0da3-4ea5-940e-1204e593cacf",
+            "Value": {
+                "id": "1bd51459-37f6-41f7-99fa-8c42d4d5db8c",
+                "resourcePath": "scripts\\EStateMachine\\EStateMachine.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "f6c5ae29-0924-4570-9eca-65e65266104f",
             "Value": {
                 "id": "f974618c-6ffa-450d-ae85-53abd536dd43",
-                "resourcePath": "scripts\\Enemy_move\\Enemy_move.yy",
+                "resourcePath": "scripts\\EState_collisions\\EState_collisions.yy",
                 "resourceType": "GMScript"
             }
         },
@@ -789,7 +821,8 @@
         "b51ab290-b90a-4886-be0f-bfdfabe84d3c",
         "3f3c0bd0-425c-4ccc-9693-df93952c7422",
         "57926964-e795-4993-ac63-3edf2ee6958d",
-        "f6c5ae29-0924-4570-9eca-65e65266104f"
+        "f6c5ae29-0924-4570-9eca-65e65266104f",
+        "f667bdc8-0da3-4ea5-940e-1204e593cacf"
     ],
     "tutorial": ""
 }

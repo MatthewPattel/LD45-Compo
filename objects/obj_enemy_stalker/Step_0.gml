@@ -1,3 +1,12 @@
 /// @description Enemy
 
-Enemy_move();
+event_inherited();
+
+EStateMachine();
+
+EState_collisions();
+
+x += hsp;
+y += vsp;
+
+event_inherited();

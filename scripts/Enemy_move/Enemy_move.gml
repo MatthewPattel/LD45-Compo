@@ -1,5 +1,16 @@
 /// @description Movimiento
 
+if (instance_exists(obj_player)) {
+	var diffX = obj_player.x - x;
+	if (abs(diffX) <= 112) {
+		state = ESTATE.ATTACK;
+	} else {
+		state = ESTATE.FREE;
+	}
+} else {
+	state = ESTATE.FREE;
+}
+
 hsp = dir * movespeed;
 vsp += grav;
 
@@ -11,6 +22,7 @@ if (place_meeting(x + hsp, y, obj_solid)) {
     hsp = 0;
     dir *= -1;
 }
+
 x += hsp;
 
 ///CHOQUE VERTICAL

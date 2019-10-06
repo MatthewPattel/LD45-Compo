@@ -10,6 +10,8 @@ hblock = false;
 vspd = 0;
 vblock = false;
 
+dir = 1;
+
 state = PSTATE.FREE;
 /*
 aReleased = true;

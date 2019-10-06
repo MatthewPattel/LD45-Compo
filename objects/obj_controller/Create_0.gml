@@ -8,6 +8,14 @@ enum PSTATE {
 	DEAD
 }
 
+enum ESTATE {
+	FREE,
+	CHASE,
+	ATTACK,
+	HIT,
+	DEAD
+}
+
 global.coins = 0;
 global.checkpoint = false; 
 global.checkpointX = noone; 
